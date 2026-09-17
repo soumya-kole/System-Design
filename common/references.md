@@ -1,7 +1,7 @@
 # References
 
 Shared reading list for the whole repo. Concept-specific sources belong in that concept's
-own `README.md` under **References**; anything broadly useful lands here.
+own `design.md` under **References**; anything broadly useful lands here.
 
 ## Future read
 

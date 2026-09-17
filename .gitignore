@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Scratch
+*.log
+tmp/
+scratch/
+
+# Dependencies / build output from examples/
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
